@@ -13,7 +13,7 @@
 
 ### 💡 Nos Projets
 
-* **[DentiQ](https://dentiq.fr)** — L'écosystème numérique nouvelle génération qui réinvente la collaboration entre les acteurs de la santé dentaire.
+* **[DentiQ](https://dentiq.fr)** — L'écosystème numérique nouvelle génération qui réinvente la collaboration entre laboratoires et cabinets dentaires.
 
 ---
 
