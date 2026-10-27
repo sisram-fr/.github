@@ -1,6 +1,6 @@
 <div align="center">
   <br />
- <img src="./sqidram-logo-light.svg" alt="sqidram logo"  />
+ <img src="./../sqidram-logo-light.svg" alt="sqidram logo"  />
   <p><b>Ingénierie de l'excellence digitale, scaling de SaaS modernes.</b></p>
   <br />
 </div>
